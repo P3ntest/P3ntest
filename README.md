@@ -1,6 +1,6 @@
 # Julius van Voorden
 
-### Hi 👋
+## Hi 👋
 I am a **full-stack** student developer from Germany contributing to open-source projects and working on educational projects.
 
 ## Cooperation

@@ -1,5 +1,5 @@
 <a href="https://github.com/P3ntest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ntest&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ntest&hide=c#,asp,ShaderLab," />
 </a>
 <a href="https://github.com/P3ntest">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=P3ntest&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Julius's GitHub Stats" />

@@ -1,9 +1,9 @@
-# 👋 Hi 
-I am a **full-stack** student developer from Germany contributing to open-source projects and working on educational projects.
+#  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I am a **full-stack** student developer from Germany looking forward to studying Copmuter Science. I love contributing to open-source projects and working on my personal educational projects.
 
 # &#x1f4c8; GitHub Stats
 <a href="https://github.com/P3ntest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ntest&hide=c#,asp,ShaderLab," />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3ntest&hide=ASP,ShaderLab" />
 </a>
 <a href="https://github.com/P3ntest">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=P3ntest&show_icons=true&line_height=27&count_private=true" alt="Julius's GitHub Stats" />

@@ -15,7 +15,7 @@ I am a **full-stack** student developer from Germany looking forward to studying
 
 
 <a href="https://github.com/future-thinking/pixelos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=future-thinking&repo=pixelos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=future-thinking&repo=pixelos&a" />
 </a>
 
 # 🔧 Technologies & Tools

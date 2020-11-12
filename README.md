@@ -3,7 +3,7 @@
 #  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a half dutch / german student looking forward to studying Computer Science. I have been interessted in Coding and Robotics since I'v been 5 years old. I mainly focus on fullstack development with JavaScript / Typescript and game modding for games like [Minecraft](https://bukkit.org), [Terraria](https://tmodloader.net) and [CSGO](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor). I also ❤️ open-source projects and enjoy contributing to them.
 
-You can find me on [Twitter](https://twitter.com/JuliusVoorden) and [Discord](https://discordapp.com/users/357871005093462019).
+You can find me on <a href="https://twitter.com/JuliusVoorden"><img src="https://img.shields.io/badge/%40JuliusVoorden-000000?style=flat-square&logo=twitter"></a> and <a href="https://discordapp.com/users/357871005093462019"><img src="https://img.shields.io/badge/P3ntest%233515-000000?style=flat-square&logo=discord"></a>.
 
 ## 📑 My Career
 My first big accomplishment was in 2018 when we got placed 2nd in the World Final of the [First Lego League](https://www.first-lego-league.org/de/) in Detroit, USA with my robotics team. Since then I have been competing in contests like the [BwKI](https://bw-ki.de/) or [BwInf](https://bwinf.de)

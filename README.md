@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/P3ntest/P3ntest/master/Banner.png" style="width: 100%">
 
 #  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am a half dutch / german student looking forward to studying Computer Science. I have been interessted in Coding and Robotics since I'v been 5 years old. I mainly focus on fullstack development with JavaScript / Typescript and game modding for games like [Minecraft](https://bukkit.org), [Terraria](https://tmodloader.net) and [CSGO](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor). I also ❤️ open-source projects and enjoy contributing to them.
+I am a half dutch / german student looking forward to studying Computer Science. I have been interessted in Coding and Robotics since I've been 5 years old. I mainly focus on fullstack development with JavaScript / Typescript and game modding for games like [Minecraft](https://bukkit.org), [Terraria](https://tmodloader.net) and [CSGO](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor). I also ❤️ open-source projects and enjoy contributing to them.
 
 <a href="https://twitter.com/JuliusVoorden"><img src="https://img.shields.io/badge/%40JuliusVoorden-000000?style=flat-square&logo=twitter"></a> <a href="https://discordapp.com/users/357871005093462019"><img src="https://img.shields.io/badge/P3ntest%233515-000000?style=flat-square&logo=discord"></a>
 

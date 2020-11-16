@@ -6,7 +6,7 @@ I am a half dutch / german student looking forward to studying Computer Science.
 <a href="https://twitter.com/JuliusVoorden"><img src="https://img.shields.io/badge/%40JuliusVoorden-000000?style=flat-square&logo=twitter"></a> <a href="https://discordapp.com/users/357871005093462019"><img src="https://img.shields.io/badge/P3ntest%233515-000000?style=flat-square&logo=discord"></a>
 
 ## 📑 My Career
-My first big accomplishment was in 2018 when we got placed 2nd in the World Finals of the [First Lego League](https://www.first-lego-league.org/de/) in Detroit, USA with my robotics team. Since then I have been competing in contests like the [BwKI](https://bw-ki.de/) or [BwInf](https://bwinf.de)
+My first big accomplishment was in 2018 when we got placed 2nd in the World Finals of the [First Lego League](https://www.first-lego-league.org/de/) in Detroit, USA with my robotics team. Since then I have been competing in contests like the [BwKI](https://bw-ki.de/) where we got placed third, or the [BwInf](https://bwinf.de).
   
 
 ## 🔧 Technologies & Tools

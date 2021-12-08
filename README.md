@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/P3ntest/P3ntest/master/Banner.png" style="width: 100%">
+<img src="https://raw.githubusercontent.com/P3ntest/P3ntest/master/new_banner.png" style="width: 100%">
 
 #  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am a half dutch / german student looking forward to studying Computer Science. I have been interessted in Coding and Robotics since I've been 5 years old. I mainly focus on fullstack development with JavaScript / Typescript and game modding for games like [Minecraft](https://bukkit.org), [Terraria](https://tmodloader.net) and [CSGO](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor). I also ❤️ open-source projects and enjoy contributing to them.
